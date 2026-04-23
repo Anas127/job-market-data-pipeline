@@ -96,6 +96,6 @@ Job demand by category:
 ### 1. Clone the repository
 
 ```bash
-git clone <job-market-data-pipeline>
+git clone <https://github.com/Anas127/job-market-data-pipeline.git>
 cd job-market-data-pipeline
 ```
